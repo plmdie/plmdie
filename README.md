@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **how to get a job in tech**.
 - :jigsaw:I love to play **Go** and solve **puzzles**.
+- :electric_plug:I love to tinker with **Arduino** and electronics in general.
 - 💬 Ask me about **anything**.
 - 📫 Write me an [email](coding_mig@protonmail.com).
 
