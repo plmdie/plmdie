@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=plmdie&show_icons=true&theme=synthwave&v=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=plmdie&show_icons=true&theme=synthwave&v=2&layout=compact"/>
 </p>
 
 
