@@ -6,7 +6,7 @@
 - :jigsaw:I love to play **Go** and solve **puzzles**.
 - :electric_plug:I love to tinker with **Arduino** and electronics in general.
 - 💬 Ask me about **anything**.
-- 📫 Get in touch on [Twitter](https://twitter.com/dev8_mig).
+- 📫 Get in touch on [LinkedIn](https://www.linkedin.com/in/pedro-santos-9048ba23a/).
 
 <p align="center">
    <img src="https://img.shields.io/badge/-Html5-F05032?logo=html5&logoColor=28282B&style=for-the-badge"/>
