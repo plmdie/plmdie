@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Miguel</h1>
 <h3 align="center">Self Taught Developer</h3>
  
-- 🌱 I’m currently learning to code, using **The Odin Project**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **how to get a job in tech**.
 - :jigsaw:I love to play **Go** and solve **puzzles**.
